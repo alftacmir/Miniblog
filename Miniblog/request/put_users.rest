@@ -1,0 +1,10 @@
+PUT http://localhost:5000/users/123
+Content-Type: application/json
+
+{
+    "id":124,
+    "name":"Alfonso Tacón",
+    "phones":{
+    "home":954161648,
+    "mobile":626959315
+}}

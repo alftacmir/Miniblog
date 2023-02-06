@@ -1,0 +1,11 @@
+//Devuelve la lista de usuarios
+GET http://localhost:5000/users
+
+###
+//Devuelve el usuario con id seleccionado
+GET http://localhost:5000/users/123
+
+###
+
+
+
